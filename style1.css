@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+}
+.mokles-div{
+    background: #34495e;
+    color:white;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px 0;
+    border-top: 5px solid #3498db;
+    margin-top: 30px;
+}
+h2 sub {
+	color: #3497db;
+}
+.mokles-bottom {
+    background: #7ab99c;
+    width: 38%;
+    margin: 42px auto;
+    padding: 50px;
+    font-size: 27px;
+    line-height: 36px;
+    border: 5px solid black;
+    word-spacing: 3px;
+    text-align: center;
+    box-shadow: 6px 6px 6px #02010159;
+}
+.three-men {
+	background: #e67e22;
+	width: 46%;
+	margin-left: 20px;
+	padding: 25px 30px;
+	box-shadow: 3px 5px 11px #6db5e5;
+	margin-bottom: 50px;
+	border-left: 5px solid #3498db;
+	box-shadow: 6px 6px 16px #3498db;
+	font-size: 20px;
+	border-radius: 0 50px 50px 0;
+	padding-bottom: 61px;
+}
+.man-brain {
+	background: #1abc9c;
+	width: 46%;
+	margin-left: 32%;
+	padding: 25px 30px;
+	padding-bottom: 25px;
+	box-shadow: 3px 5px 11px #6db5e5;
+	margin-bottom: 50px;
+	box-shadow: 6px 6px 13px #8e44ad;
+	font-size: 20px;
+	border-radius: 50px 0 0 50px;
+	padding-bottom: 61px;
+	text-align: right;
+	border-right: 5px solid #8e44ad;
+}
+.search-icon {
+	background: #e74c3c;
+	margin-bottom: 100px;
+	width: 22%;
+	padding: 30px;
+	padding-top: 30px;
+	text-align: center;
+	border-radius: 153px 151px 0 0;
+	box-shadow: 5px 5px 20px #f1c40f;
+	border-top: 5px solid #f1c40f;
+	margin-left: 200px;
+	padding-top: 20px;
+	padding-right: 37px;
+	padding-left: 37px;
+}
+
+.like-mokles{
+    background: #34495e;
+    color:white;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px 0;
+    border-top: 5px solid #3498db;
+    margin-top: 30px;
+}
